@@ -31,7 +31,3 @@ export default function Countries({
     </div>
   );
 }
-
-/*
-title, location, googleMapsUrl, startDate, endDate, description, imageUrl
-*/
