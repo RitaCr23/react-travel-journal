@@ -12,7 +12,7 @@ In this project I had to create a Travel Journal, that has a `title`, `location`
 
 The main goal of the project was to practise creating reusable code - this means that any new data that is added to the file data.js, will automatically be formatted and displayed on the page.
 
-🌐 [Live Demo of this project](r-travel-journal.netlify.app)
+🌐 [Live Demo of this project]([r-travel-journal.netlify.app](https://r-travel-journal.netlify.app/))
 
 ## 🧰 Technologies used
 
